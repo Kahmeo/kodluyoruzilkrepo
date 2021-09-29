@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
 [Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo
 
-![Lorem Picsum Gorsel](https://picsum.photos/600/500)
+![Lorem Picsum Gorsel](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
 
 
 
