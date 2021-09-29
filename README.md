@@ -1,7 +1,7 @@
 # kodluyoruzilkrepo
-Kodluyoruz Eğitimi kapsamında açtığım ilk repo
+[Kodluyoruz](https://www.kodluyoruz.org/) Eğitimi kapsamında açtığım ilk repo
 
-![Lorem Picsum Gorsel](https://picsum.photos/400/300)
+![Lorem Picsum Gorsel](https://picsum.photos/600/500)
 
 
 
@@ -21,7 +21,7 @@ Linux için:
 cd kodluyoruzilkrepo
 code.
  ```
- 
+
 
  ## Contributing
  Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için konu açınız.
